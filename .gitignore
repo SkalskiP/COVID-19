@@ -1,0 +1,17 @@
+# PyCharm, VSCode and Mac
+.idea
+.DS_Store
+.azureml
+.vscode
+
+# Notebook data files
+notebooks/*.pkl
+notebooks/*.tsv
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class

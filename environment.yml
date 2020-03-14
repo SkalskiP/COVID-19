@@ -1,0 +1,13 @@
+name: covid_19
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7.3
+  - pip=20.0.2
+  - pandas=1.0.1
+  - matplotlib=3.2.0
+  - tqdm=4.43.0
+  - jupyter=1.0.0
+  - basemap-data-hires=1.2.0
+  - basemap=1.2.0
+  - pillow=7.0.0
