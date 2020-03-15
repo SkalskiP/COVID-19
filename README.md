@@ -26,3 +26,11 @@ conda activate covid_19
 <p align="center"> 
     <b>Figure 1.</b> Confirmed COVID-19 cases worldwide
 </p>
+
+<p align="center"> 
+    <img width="800" src="./viz/mortality.png" alt="COVID-19 mortality">
+</p>
+
+<p align="center"> 
+    <b>Figure 2.</b> COVID-19 mortality
+</p>
