@@ -28,9 +28,17 @@ conda activate covid_19
 </p>
 
 <p align="center"> 
+    <img width="800" src="./viz/rate-of-new-cases.png" alt="Total / New confirmed cases of COVID-19">
+</p>
+
+<p align="center"> 
+    <b>Figure 2.</b> Total / New confirmed cases of COVID-19
+</p>
+
+<p align="center"> 
     <img width="800" src="./viz/mortality.png" alt="COVID-19 mortality">
 </p>
 
 <p align="center"> 
-    <b>Figure 2.</b> COVID-19 mortality
+    <b>Figure 3.</b> COVID-19 mortality
 </p>
